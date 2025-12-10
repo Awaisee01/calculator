@@ -2,7 +2,7 @@
 
 A fully functional calculator built with Next.js 13+ (App Router), React, and Tailwind CSS to help homeowners evaluate the financial implications of downsizing.
 
-## Features
+## Featu
 
 ### Input Fields
 - **Current Home Value**: Enter your home's market value
